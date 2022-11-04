@@ -5,13 +5,13 @@ I have a BEng in Computer Science and Engineering and a MSc in Data Science.
 
 #### About me
 
-- 💻 I’m currently working on a Computer Vision research project on *Self-supervised Representation Learning from Video*.
-- 📚 Take a look at my reading history on *[good**reads**](https://www.goodreads.com/user/show/105246688-paolo-mandica)*.
+- 💻 I’m currently working on *Self-supervised Representation Learning from Video and Skeleton Sequences*.
 - 📫 How to reach me:
   - paolomandica.p@gmail.com (personal)
   - paolo.mandica.bs@gmail.com (business)
   - paolo.mandica@uniroma1.it (academic)
 - 👨‍💼 Let's connect on LinkedIn: *[@paolomandica](https://www.linkedin.com/in/paolo-mandica/)*
+- 📚 Take a look at my reading history on *[good**reads**](https://www.goodreads.com/user/show/105246688-paolo-mandica)*.
 
 <h2>💻 Some stats 💻</h2>
 
