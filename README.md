@@ -1,15 +1,15 @@
 ### Hi there, I'm Paolo 👋
 
-I am a PhD student in Computer Science @ Sapienza University of Rome currently researching the topic of Self-supervised Representation Learning from Video.  
+I am a PhD student in Computer Science @ Sapienza University of Rome currently researching the topic of Self-supervised Representation Learning in Deep Learning and Computer Vision.  
 I have a BEng in Computer Science and Engineering and a MSc in Data Science.
 
 #### About me
 
-- 💻 I’m currently working on *Self-supervised Representation Learning from Video and Skeleton Sequences*.
+- 💻 What I'm working on: *Hyperbolic Self-paced SSL*
 - 📫 How to reach me:
   - paolomandica.p@gmail.com (personal)
   - paolo.mandica.bs@gmail.com (business)
-  - paolo.mandica@uniroma1.it (academic)
+  - mandica@di.uniroma1.it (academic)
 - 👨‍💼 Let's connect on LinkedIn: *[@paolomandica](https://www.linkedin.com/in/paolo-mandica/)*
 - 📚 Take a look at my reading history on *[good**reads**](https://www.goodreads.com/user/show/105246688-paolo-mandica)*.
 
