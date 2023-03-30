@@ -1,19 +1,7 @@
 ### Hi there, I'm Paolo 👋
 
-I am a PhD student in Computer Science @ Sapienza University of Rome currently researching the topic of Self-supervised Representation Learning in Deep Learning and Computer Vision.  
-I have a BEng in Computer Science and Engineering and a MSc in Data Science.
-
-#### About me
-
-- 💻 What I'm working on: *Hyperbolic Self-paced SSL*
-- 📫 How to reach me:
-  - paolomandica.p@gmail.com (personal)
-  - paolo.mandica.bs@gmail.com (business)
-  - mandica@di.uniroma1.it (academic)
-- 👨‍💼 Let's connect on LinkedIn: *[@paolomandica](https://www.linkedin.com/in/paolo-mandica/)*
-- 📚 Take a look at my reading history on *[good**reads**](https://www.goodreads.com/user/show/105246688-paolo-mandica)*.
-
-<h2>💻 Some stats 💻</h2>
+I am a PhD student in Computer Science @ Sapienza University of Rome workingSelf-supervised Learning.  
+If you are interested in learning more about me, feel free to check out my personal website at https://paolomandica.github.io/.
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=paolomandica&show_icons=true&theme=nord&hide=issues&count_private=true)  
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paolomandica&layout=compact&theme=nord)-->
